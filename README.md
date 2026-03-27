@@ -57,9 +57,3 @@ I'm an ICT student at **Oulu University of Applied Sciences (Oamk)**, Finland, w
 
 ---
 
-## GitHub Stats
-
-![Jussi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmitteli&show_icons=true&theme=default&hide_border=true)
-
----
-
