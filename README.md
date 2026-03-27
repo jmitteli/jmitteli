@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Jussi 👋
 
-<!--
-**jmitteli/jmitteli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ICT student at **Oulu University of Applied Sciences (Oamk)**, Finland, with a strong interest in systems programming, cloud infrastructure, and building automation. I enjoy working close to the hardware and building things that solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Studying Information and Communications Technology at Oamk
+- 🏙️ Based in Oulu, Finland
+- 🖥️ Daily driving **Fedora Linux** — firm believer in open source
+- 🏭 Working with **Fidelix and Caverion Drive BMS/PLC systems** in building automation
+- 🖨️ Hobbyist 3D printer
+
+---
+
+## Tech Stack & Tools
+
+**Operating Systems**
+- Fedora Linux (daily driver)
+- Ubuntu Server (Homeserver)
+
+**Languages**
+- C++ · Python · Java · JavaScript · Structured Text (IEC 61131-3)
+
+**Cloud & DevOps**
+- Microsoft Azure · Terraform · GitHub Actions · Nginx · Docker (learning)
+
+**Databases**
+- MySQL · SQLite
+
+**Protocols & Automation**
+- BACnet/IP · Modbus · Fidelix PLC/BMS · Caverion Drive BMS
+
+**Tools**
+- Git · VS Code · IntelliJ IDEA · Bash
+
+---
+
+## Current Projects
+
+| Project | Description |
+|---|---|
+| **Custom BMS Controller** | Building a professional-grade building management system from scratch — In design phase |
+| **Home Server CI/CD Pipeline** | Self-hosted GitHub Actions runner with Nginx reverse proxy, automated deployments with strong security practices |
+| **Cloud Services Coursework** | Azure deployments using Terraform Infrastructure as Code |
+
+---
+
+## Learning Goals
+
+- 📐 Deepen programming skills in **C++, Rust, Python and Javascript**
+- ☁️ Advance cloud architecture knowledge on **Azure**
+- 🔐 Improve DevOps and security practices
+- 📜 Work toward a **Linux professional certification** (LPIC-1 / LFCS)
+- 🌐 Strengthen full-stack web development skills
+
+---
+
+## GitHub Stats
+
+![Jussi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmitteli&show_icons=true&theme=default&hide_border=true)
+
+---
+
