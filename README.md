@@ -57,3 +57,10 @@ I'm an ICT student at **Oulu University of Applied Sciences (Oamk)**, Finland, w
 
 ---
 
+## Background & Experience
+
+Beyond software, I have hands-on experience in:
+
+- ❄️ **Air Conditioning & Refrigeration** — installation, maintenance, and fault diagnosis
+- ⚡ **Electrical Systems** — building electrical installations and wiring
+- 🔌 **Electronics** — component-level understanding, circuit reading and troubleshooting
