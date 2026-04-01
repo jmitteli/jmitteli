@@ -21,7 +21,7 @@ I'm an ICT student at **Oulu University of Applied Sciences (Oamk)**, Finland, w
 - Ubuntu Server (Homeserver)
 
 **Languages**
-- C++ · Python · Java · JavaScript · Structured Text (IEC 61131-3)
+- C++ · Python · Java · JavaScript · HTML · CSS · Structured Text (IEC 61131-3) 
 
 **Cloud & DevOps**
 - Microsoft Azure · Terraform · GitHub Actions · Nginx · Docker (learning)
@@ -44,6 +44,7 @@ I'm an ICT student at **Oulu University of Applied Sciences (Oamk)**, Finland, w
 | **Custom BMS Controller** | Building a professional-grade building management system from scratch — In design phase |
 | **Home Server CI/CD Pipeline** | Self-hosted GitHub Actions runner with Nginx reverse proxy, automated deployments with strong security practices |
 | **Cloud Services Coursework** | Azure deployments using Terraform Infrastructure as Code |
+| **Notes Web App** | Selfhosted notepad web app |
 
 ---
 
